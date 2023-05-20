@@ -1,0 +1,14 @@
+.list-container {
+  display: flex;
+  justify-content: center;
+  width: 30vw;
+  background-color: aliceblue;
+  margin: 30px auto;
+  padding: 30px;
+}
+
+.list-box {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
